@@ -1,4 +1,6 @@
 # somecode
+
+
 record
 //window.onload
 function addLoadEvent(Func) {
